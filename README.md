@@ -35,7 +35,7 @@
 
 # 📖 [Recipe App] <a name="about-project"></a>
 
-**[Recipe App]** is an application that helps users to post, like and comment on the post. This work delineates the usage of ruby on rails as a backend framework with Postgres.
+**[Recipe App]** is a web app built with Ruby on Rails, that keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe.
 
 ## 🛠 Built With <a name="built-with"></a>
 
